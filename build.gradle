@@ -2,7 +2,7 @@ plugins {
     id 'java'
 }
 
-group 'org.dailyCommit'
+group 'org.dailyCommit'jf
 version '1.0-SNAPSHOT'
 
 repositories {
